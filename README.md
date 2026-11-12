@@ -71,8 +71,3 @@ Launch the application:
 python main.py
 
 ```
-
-## Author
-**Muhammad Fahaz Khan**  
-- **GitHub:** [@SHADOWRULIN](https://github.com/SHADOWRULIN)  
-- **LinkedIn:** [Fahaz Khan](https://www.linkedin.com/in/muhammadfahazkhan/)
